@@ -10,7 +10,7 @@ ARAGPS -- added new locations here: withinServiceArea(), inStateWatersAt()
 
 isLocationOffshore(), TODO: do additional polygons need to be added here??
 
-ARAQuestionViewController -- added new locations
+ARAQuestionViewController -- added new locations; TODO: consider replacing HTML with an external file for security reasons
 
 Category.h and Category.m -- there seemed to be a problem with using the word "Category" - it's a reserved word, so I renamed the files NOAACategory.
 
