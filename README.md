@@ -16,5 +16,5 @@ Category.h and Category.m -- there seemed to be a problem with using the word "C
 
 ARAMammalPreload.m  -- create new species; I added the meta data information about the new species such as the Family; ToDO: add the descriptions, I didn't have all the details for the new ones
 
-ARAReportViewController -- created a pList and added ALL the old and new locations. TODO: check for accuracy especially states such as Massachusetts which has three sub-areas - phone and state full name may be wrong. I don't know how the placemarks returns locations such as Massachusetts_Central? Is the "debug phone number" still necessary? I left it in.
+ARAReportViewController -- created a pList and added ALL the old and new locations. TODO: check for accuracy especially states such as Massachusetts which has three sub-areas - phone and state full name may be wrong. I don't know how the placemarks returns locations such as Massachusetts_Central? Is the "debug phone number" still necessary? I wasn't sure how to use it, so I included it in every state. It would be better to remove it so that the .pList is shorter.
 
